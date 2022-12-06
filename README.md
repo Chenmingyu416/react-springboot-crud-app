@@ -1,7 +1,7 @@
 # react-springboot-crud-app Full Stack Application
 This is a employee management web application using Spring Boot, React, Spring Data JPA, Hibernate MySQL database. User can check employee's information, add a new employee, edit employee's information, and delete employee.
 
-The website is: https://employee-management-frontendv1.herokuapp.com/(Still fixing)
+The website is: https://employee-management-frontendv1.herokuapp.com/ (Still fixing)
 
 To run the program should follow few steps:
 1) run springboot-backend to start spring
